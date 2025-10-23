@@ -6,34 +6,7 @@ This is a small project I built to connect **AI** and **network monitoring** tog
 I made this as part of my first month learning roadmap about **AI and networking fundamentals**.  
 The goal was to practise things like data preprocessing, PyTorch basics, and simple network traffic analysis.
 
----
 
-## ⚙️ Project Structure
-
-network_ai_project/
-│
-├── data/
-│ └── traffic_raw.pcap # Raw network capture file
-│
-├── notebooks/
-│ └── main_notebook.ipynb # Optional for experiments
-│
-├── src/
-│ ├── preprocess.py # Converts pcap to CSV (feature extraction)
-│ ├── models.py # Simple PyTorch models (FC, CNN, Transformer)
-│ ├── train.py # Training script
-│ └── evaluate.py # Evaluation script
-│
-├── models/
-│ └── fc_model.pth # Saved model after training
-│
-├── README.md
-└── requirements.txt
-
-yaml
-Copy code
-
----
 
 ## 💻 How to Run
 
