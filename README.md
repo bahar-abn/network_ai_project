@@ -50,6 +50,8 @@ Accuracy: 0.82
 Confusion Matrix:
 [[41  0]
  [ 9  0]]
+
+---
 🧩 What I Learned
 How to collect and read real network packets with tcpdump and scapy.
 
@@ -60,6 +62,8 @@ Building and training a simple PyTorch model.
 Evaluating accuracy and confusion matrix.
 
 Connecting basic AI with cybersecurity ideas.
+
+---
 
 🚀 Future Plans
 I’d love to:
